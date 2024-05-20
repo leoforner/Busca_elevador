@@ -1,6 +1,6 @@
 
 
-docker run -p 25000:5000 -t -v "C:\Users\leona\OneDrive - UFSC\Documentos\GitHub\Busca_elevador\PDDL\funciona":/x azathoth/pddl 
+docker run -p 25000:5000 -t -v "/media/leonardo/SD16GB/github/Busca_elevador-1/PDDL/funciona":/x azathoth/pddl &
 
 docker ps
 
